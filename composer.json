@@ -11,5 +11,12 @@
             "name": "Mahdi Samian"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PostorShop\\CurrencyModules\\app\\Providers\\CurrencyServiceProvider"
+            ]
+        }
+    },
     "require": {}
 }
