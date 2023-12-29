@@ -1,9 +1,9 @@
 {
-    "name": "postor/currency-modules",
+    "name": "postor-shop/currency-modules",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Postor\\CurrencyModules\\": "src/"
+            "PostorShop\\CurrencyModules\\": "src/"
         }
     },
     "authors": [
