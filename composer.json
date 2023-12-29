@@ -1,0 +1,15 @@
+{
+    "name": "postor/currency-modules",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Postor\\CurrencyModules\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahdi Samian"
+        }
+    ],
+    "require": {}
+}
